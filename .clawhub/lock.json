@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1772179629340
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1772179651934
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1772179669274
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772179684028
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772179706161
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1772179728789
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1772179754667
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1772179823440
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1772179839761
+    },
+    "gmail": {
+      "version": "1.0.6",
+      "installedAt": 1772499913094
+    },
+    "baidunetdisk": {
+      "version": "1.0.2",
+      "installedAt": 1772505603253
+    },
+    "deepseek": {
+      "version": "1.0.0",
+      "installedAt": 1772506082312
+    },
+    "pdf-text-extractor": {
+      "version": "1.0.0",
+      "installedAt": 1772508365173
+    },
+    "sonoscli": {
+      "version": "1.0.0",
+      "installedAt": 1772511662684
+    },
+    "ddg-web-search": {
+      "version": "1.0.0",
+      "installedAt": 1772513186918
+    },
+    "baidu-search": {
+      "version": "1.1.0",
+      "installedAt": 1772513820395
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1772513932378
+    },
+    "discord": {
+      "version": "1.0.1",
+      "installedAt": 1772513993625
+    },
+    "slack": {
+      "version": "1.0.0",
+      "installedAt": 1772514041046
+    },
+    "mcporter": {
+      "version": "1.0.0",
+      "installedAt": 1772514043241
+    },
+    "tmux": {
+      "version": "1.0.0",
+      "installedAt": 1772514047554
+    },
+    "trello": {
+      "version": "1.0.0",
+      "installedAt": 1772514049685
+    },
+    "himalaya": {
+      "version": "1.0.0",
+      "installedAt": 1772518362085
+    },
+    "imsg": {
+      "version": "1.0.0",
+      "installedAt": 1772518364562
+    },
+    "camsnap": {
+      "version": "1.0.0",
+      "installedAt": 1772518366764
+    },
+    "model-usage": {
+      "version": "1.0.0",
+      "installedAt": 1772518369205
+    },
+    "oracle": {
+      "version": "1.0.1",
+      "installedAt": 1772518371415
+    },
+    "session-logs": {
+      "version": "1.0.0",
+      "installedAt": 1772518373701
+    },
+    "xurl": {
+      "version": "1.0.0",
+      "installedAt": 1772518377409
+    },
+    "blucli": {
+      "version": "1.0.0",
+      "installedAt": 1772518459584
+    },
+    "eightctl": {
+      "version": "1.0.0",
+      "installedAt": 1772518461892
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1772518463955
+    },
+    "goplaces": {
+      "version": "1.0.0",
+      "installedAt": 1772518466406
+    },
+    "ordercli": {
+      "version": "1.0.0",
+      "installedAt": 1772518470732
+    },
+    "sag": {
+      "version": "1.0.0",
+      "installedAt": 1772518473065
+    },
+    "songsee": {
+      "version": "1.0.0",
+      "installedAt": 1772518475366
+    },
+    "spotify-player": {
+      "version": "1.0.0",
+      "installedAt": 1772518477587
+    },
+    "tencent-ima-skill": {
+      "version": "1.0.0",
+      "installedAt": 1772519165792
+    }
+  }
+}
